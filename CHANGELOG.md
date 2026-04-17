@@ -1,3 +1,20 @@
+<a name="2.138.0-pactbroker2.119.0"></a>
+### 2.138.0-pactbroker2.119.0 (2026-04-17)
+
+#### Features
+
+* **deps**
+  * update pact_broker gem to version 2.119.0	 ([776961d](/../../commit/776961d))
+
+#### Bug Fixes
+
+* Update Trivy setup action version to v0.2.6	 ([22c2f06](/../../commit/22c2f06))
+* pin postgres to version 17 to avoid data directory incompatibility	 ([dd1a22d](/../../commit/dd1a22d))
+* update pact-broker image to latest version with ARM64 support	 ([8571152](/../../commit/8571152))
+
+* **deps**
+  * bundle update	 ([7db8e86](/../../commit/7db8e86))
+
 <a name="2.137.0-pactbroker2.118.0"></a>
 ### 2.137.0-pactbroker2.118.0 (2026-01-06)
 
